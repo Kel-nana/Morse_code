@@ -19,7 +19,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Bookstore CMS<a name="about-project"></a>
+# 📖 Morse_code<a name="about-project"></a>
 
 **Morse-code** is a simple ruby app that allows a user to decode characters or strings.
 
@@ -89,7 +89,7 @@ To run the project, execute the ruby file with any code runner of your choice.
 👤 **Mahamadou Nouridine**
 
 - GitHub: [mahamadou-nouridine](https://github.com/mahamadou-nouridine)
-- Linkedin: [mahamadou-nouridine-mamoudou-souley-2b424a1a5](https://www.linkedin.com/in/mahamadou-nouridine)
+- Linkedin: [mahamadou-nouridine](https://www.linkedin.com/in/mahamadou-nouridine)
 - Twitter: [Nouridine_Dino](https://twitter.com/Nouridine_Dino)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
