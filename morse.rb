@@ -69,4 +69,3 @@ elsif conversion_type == 'decode'
 else
   puts 'Invalid conversion type.'
 end
-
